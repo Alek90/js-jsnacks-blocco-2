@@ -29,4 +29,6 @@ const punti = 0;
         falliSubiti,
         punti
     }
- ]
+] 
+
+console.log(squadre);
